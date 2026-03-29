@@ -3,7 +3,7 @@ Computer engineering student passionate about cybersecurity, aerospace, and crit
 I develop projects related to offensive and defensive security, data analysis, and automation.
 Currently in training, I am building a solid portfolio to grow into cyber defense or embedded systems security.
 
-Interests: cybersecurity, defense, applied AI, cloud security, pentesting, embedded systems, OSINT.
+Interests: cybersecurity,pentesting, embedded systems, OSINT.
 Goal: contribute to open-source projects and join a major player such as Thales, Airbus, Safran, or Orange Cyberdefense.
 
 ## Skills
