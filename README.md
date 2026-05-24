@@ -1,4 +1,4 @@
-# Hello! I'm flow_vx
+# Hello! I'm Sypher
 Computer engineering student passionate about cybersecurity, aerospace, and critical systems.
 I develop projects related to offensive and defensive security, data analysis, and automation.
 Currently in training, I am building a solid portfolio to grow into cyber defense or embedded systems security.
