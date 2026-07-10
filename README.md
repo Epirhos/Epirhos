@@ -1,6 +1,6 @@
 # Bonjour, je suis Dahirou Nounsi (Sypher / flow_vx) 👋
 
- **Élève-Ingénieur en Cybersécurité, Data & IA (ECE Paris) | Profil "Maker" Hybride**
+ **Élève-Ingénieur en Cybersécurité, Data & IA | Profil "Maker" Hybride**
 
 Futur ingénieur passionné par l'intersection entre le développement logiciel, l'intelligence artificielle et la sécurité des infrastructures. Mon ambition à long terme est d'évoluer vers un poste de **RSSI** (Responsable de la Sécurité des Systèmes d'Information) au sein d'une multinationale.
 
