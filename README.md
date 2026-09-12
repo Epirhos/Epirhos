@@ -1,4 +1,4 @@
-# Bonjour, je suis Dahirou Nounsi (Epirhos) 👋
+# Bonjour, je suis Dahirou Nounsi - Epirhos (e-pi-rhos)
 
  **Élève-Ingénieur en Cybersécurité, Data & IA | Profil "Maker" Hybride**
 
