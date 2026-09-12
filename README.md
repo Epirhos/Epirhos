@@ -18,7 +18,7 @@ Je construis un portfolio solide mêlant création d'outils sur-mesure (intégra
   -  *Cisco CCNA* (En préparation)
 
 ##  Projets Récents
-- **[Jema](https://flowvx.github.io/jema_website/)** : Éditeur de texte de bureau pensé pour les romanciers. Architecture "Local-first" exigeante intégrant des modèles d'IA générative en local pour détecter les incohérences narratives tout en garantissant la confidentialité absolue de la propriété intellectuelle (Python, React, FastAPI).
+- **[Jema](https://epirhos.github.io/jema_website/)** : Éditeur de texte de bureau pensé pour les romanciers. Architecture "Local-first" exigeante intégrant des modèles d'IA générative en local pour détecter les incohérences narratives tout en garantissant la confidentialité absolue de la propriété intellectuelle (Python, React, FastAPI).
 - **Littera** : Application sociale de discussion (chat) pensée pour fédérer les lecteurs autour de leurs œuvres (Architecture de la base de données et MVP définis).
 - **Home Lab SOC** : Déploiement d'un laboratoire de sécurité réseau personnel pour simuler des attaques, auditer des environnements et comprendre la résilience des systèmes.
 
